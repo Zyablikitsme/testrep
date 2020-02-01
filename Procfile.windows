@@ -1,1 +1,1 @@
-worker: python govno.py
+web: python govno.py
