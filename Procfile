@@ -1,1 +1,1 @@
-web: python govno.py
+web: python bot.py
